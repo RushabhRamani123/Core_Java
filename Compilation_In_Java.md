@@ -1,7 +1,17 @@
 # Compilation and Execution of a Java Program 
 
 
-<img width="2925" height="1548" alt="image" src="https://github.com/user-attachments/assets/5afbc04c-b7d7-4f92-8b8b-13f50d7f1956" />
+<img width="2925" height="1548" style="" alt="image" style="
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    border: 4px solid white; 
+    border-radius: 16px; 
+    display: block; 
+    max-width: 100%;
+    margin: auto;
+    background-color: white;
+"
+src="https://github.com/user-attachments/assets/5afbc04c-b7d7-4f92-8b8b-13f50d7f1956" />
 
 
 
